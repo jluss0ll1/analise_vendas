@@ -47,7 +47,7 @@ Link do tutorial: https://www.youtube.com/watch?v=eMOA1pPVUc4</br>
 - ('Vareebadd Phone', 'Wired Headphones') 143
 - ('Lightning Charging Cable', 'Wired Headphones') 92
 
-<br> 🚩 Baterias foram os produtos mais vendidos. Pode-se observar uma forte relação entre o preço dos produtos com a quantidade de vendas durante o ano. </br>
+<br> 🚩 Baterias foram os produtos mais vendidos. Pode-se observar uma relação entre o preço dos produtos com a quantidade de vendas durante o ano. </br>
 
 ![image](https://user-images.githubusercontent.com/65292945/127414452-b68cb2db-2fa3-49df-bfd7-c6d8172a499c.png)
 
